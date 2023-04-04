@@ -22,4 +22,4 @@ jobs:
           ls
       - name: Test with pytest
         run: |
-          python -m pytest b3-c2-dev-tu-rb-lg/
+          python -m pytest Calculator/
