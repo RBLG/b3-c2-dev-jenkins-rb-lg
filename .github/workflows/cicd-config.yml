@@ -19,6 +19,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install pytest
+          ls
       - name: Test with pytest
         run: |
           python -m pytest b3-c2-dev-tu-rb-lg/
