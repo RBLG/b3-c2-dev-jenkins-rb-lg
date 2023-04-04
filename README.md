@@ -1,6 +1,6 @@
 ##CICD du projet calculatrice,
 
-j'utilise un le projet calculatrice comme submodule
+j'utilise un le projet calculatrice comme submodule (sous le dossier Calculator/)
 
 la config est dans .github/workflows/cicd-config
 
