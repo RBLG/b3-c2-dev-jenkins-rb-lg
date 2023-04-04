@@ -21,6 +21,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install pytest
           ls
+          ls ./Calculator/
       - name: Test with pytest
         run: |
-          python -m pytest Calculator/
+          python -m pytest ./Calculator/
